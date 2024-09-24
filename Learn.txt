@@ -1,0 +1,1 @@
+DEVOPS linux,git,jenkins,docker,kubernets,anisible
