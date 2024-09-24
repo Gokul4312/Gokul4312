@@ -1,0 +1,20 @@
+GIT
+git init
+git status
+git branch
+git fetch
+git log
+git checkout
+git branch d
+git merge
+git add
+git help
+git pull
+git push
+git reset
+git remote
+git tag
+git blame
+git branch amend
+git rebase
+git rm 
